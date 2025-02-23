@@ -57,7 +57,8 @@ jupyter notebook
 - Modify the code to perform additional analyses as needed.
 
 ## Screenshots
-(Add your SS here)
+<p align="center"> <img src="https://github.com/user-attachments/assets/b731447d-1aa5-4adb-b722-717c37623842" width="250" /> <img src="https://github.com/user-attachments/assets/f148e8dd-579c-425c-86a9-b504c4408a7f" width="250" /> <img src="https://github.com/user-attachments/assets/7b50de53-58ca-4697-8ea9-952dede8b2f4" width="250" /> </p>
+
 
 ## Contribution
 Feel free to contribute by improving the analysis or adding new features. To contribute:
